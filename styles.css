@@ -1,15 +1,16 @@
-.borders{
+.borders {
     border-style: solid;
 }
-#imageSize{
+#animal-name-size {
     height: 30px;
     width: 100px;
 }
-#pageDimensions{
+#page-dimensions {
     height: 500px;
     width: 500px;            
     border: 25px;
     padding: 20px;
     margin: 10px;
     align-content: center;
+    list-style-type: none;
 }
