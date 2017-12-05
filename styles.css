@@ -6,11 +6,16 @@
     width: 100px;
 }
 #page-dimensions {
-    height: 500px;
+    height: auto;
     width: 500px;            
     border: 25px;
+    border-style: solid;
+    border-color: black;
     padding: 20px;
     margin: 10px;
     align-content: center;
+    list-style-type: none;
+}
+ul {
     list-style-type: none;
 }
